@@ -7,4 +7,5 @@ It's a solution of Travelling salesman problem based on genetic algorithm. App i
 2. Initial set of cities is random;
 3. You can change their location by simply dragging them;
 4. Change number of cities programmatically;
-5. Use different types of crossovers
+5. Use different types of crossovers;
+6. See results on different iterations using arrow keys (`right`, `left`)
